@@ -1,0 +1,27 @@
+{
+  "name": "batch-windows-utilyties",
+  "version": "1.0.3",
+  "description": "Все самые полезные и самые важные утилиты пакетных файлов для windows 10 / 11",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acelotick/batch-windows-utilyties.git"
+  },
+  "keywords": [
+    "batch",
+    "util",
+    "utilityes",
+    "runnable",
+    "activate",
+    "windows"
+  ],
+  "author": "Vitaliy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/acelotick/batch-windows-utilyties/issues"
+  },
+  "homepage": "https://github.com/acelotick/batch-windows-utilyties#readme"
+}
